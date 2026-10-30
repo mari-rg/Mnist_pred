@@ -7,7 +7,7 @@ from streamlit_drawable_canvas import st_canvas
 import os
 
 st.set_page_config(
-    page_title="Detector de Dígitos MNIST",
+    page_title="Detector de Dígitos MNIST - majo romo",
     page_icon="✍️",
     layout="wide"
 )
